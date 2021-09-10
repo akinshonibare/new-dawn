@@ -7,6 +7,7 @@ function getFocusableElements(container) {
 }
 
 const trapFocusHandlers = {};
+const random = {};
 
 function trapFocus(container, elementToFocus = container) {
   var elements = getFocusableElements(container);
