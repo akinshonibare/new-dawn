@@ -1,4 +1,4 @@
-// testing
+
 class CartRemoveButton extends HTMLElement {
   constructor() {
     super();
