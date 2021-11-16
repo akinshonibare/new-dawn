@@ -138,3 +138,4 @@ class CartItems extends HTMLElement {
 customElements.define('cart-items', CartItems);
 
 var test=1
+var test=2
